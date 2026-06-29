@@ -1,6 +1,6 @@
 # quote-generator
 
 ## Overview
-Random quotes app
+Random quotes app.
 
 
